@@ -1,0 +1,103 @@
+body{
+    font-size: 'Montserrat', sans-serif;
+}
+.picture{
+    height: 200px;
+    width: 200px;
+    border: none;
+}
+.navbar{
+    padding-top: 50px 10px;
+    
+
+}
+.navbar h5 a{
+    text-decoration: none;
+    color: #828282;
+    font-size: 20px;
+    font-weight: 500;
+}
+.Avoid{
+    color: #575757;
+    font-size: 75px;
+    margin-top: 100px;
+}
+.navbar h5 a:hover{
+    color: red;
+}
+.lets_try{
+    background-color: red !important;
+}
+.bg-pic{
+    background-image:image(about_me_bg_img.png);
+}
+.image{
+    height: 500px;
+    width: 350px;
+    padding-left: 35%px;
+
+}
+.about-us{
+    background-image: url(about_me_bg_img.png);
+    height: 500px;
+    width: 100%;
+}
+.about{
+    font-size: 50px;
+    padding-top: 100px;
+    color: #575757;
+
+}
+p{
+    font-size: 18px;
+    color: #828282;
+    padding-top: 20px;
+}
+.about-btn{
+    border: none;
+    font-size: 20px;
+    color: white;
+    background-color: orangered;
+    border-radius: 25px;
+    margin-top: 30px;
+   padding: 10px 15px;
+   box-shadow: ;
+}
+.recipies{
+    font-size:40px ;
+    text-align: center;
+    color: #575757;
+}
+.recipies-p{
+    color: #828282;
+    font-size:15px ;
+   
+}
+.social{
+    height: 50px;
+    width: 50px;
+}
+.social-icon h1{
+    font-size: 30px;
+    font-weight: 800;
+    margin-top: 5px;
+    color: #575757;
+}
+.social-icon{
+    padding: 50px;
+    width: 80%;
+    margin-top: 50px;
+    margin-left: 130px;
+    box-shadow: 0px 0px 10px #00000052;
+    border-radius: 10px;
+    height: 300px;
+}
+.footer{
+    margin-top: 50px;
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.footer h1{
+    font-weight: 50px;
+}
